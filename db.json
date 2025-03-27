@@ -1,0 +1,116 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "img": "/10.jpeg",
+            "mp3": "/1.mp3",
+            "title": "10 counts by woman teacher",
+            "price": 0,
+            "choice": true,
+            "new": true,
+            "duration": ["13sec"]
+        },
+        {
+            "id": 1,
+            "img": "/9.jpeg",
+            "mp3": "/2.mp3",
+            "title": "Cute child counts 10",
+            "price": 0,
+            "choice": true,
+            "duration": ["11sec"]
+        },
+        {
+            "id": 2,
+            "img": "/17.jpeg",
+            "mp3": "/10countwomanteacher.mp3",
+            "title": "10 count by woman teacher slowly",
+            "price": 0,
+            "choice": false,
+            "duration": ["14sec"]
+        },
+        {
+            "id": 3,
+            "img": "/design-hoodie.jpeg",
+            "mp3": "/10secbeat.mp3",
+            "title": "10 seconds anxiety",
+            "price": 0,
+            "choice": false,
+            "duration": ["9sec"]
+        },
+        {
+            "id": 4,
+            "img": "/shirt-dress.jpeg",
+            "mp3": "/20sec.mp3",
+            "title": "20 seconds with woman teacher voice",
+            "price": 0,
+            "choice": true,
+            "duration": ["20sec"]
+        },
+        {
+            "id": 5,
+            "img": "/11.jpeg",
+            "mp3": "/1.mp3",
+            "title": "Metronome 1min",
+            "price": 0,
+            "choice": false,
+            "duration": ["60sec"]
+        },
+        {
+            "id": 6,
+            "img": "/7.jpeg",
+            "mp3": "/3minbell.mp3",
+            "title": "3 min bell",
+            "price": 0,
+            "choice": true,
+            "duration": ["180sec"]
+        },
+        {
+            "id": 7,
+            "img": "/18.jpeg",
+            "mp3": "/1.mp3",
+            "title": "Tiktok 7sec",
+            "price": 0,
+            "choice": false,
+            "duration": ["7sec"]
+        },
+        {
+            "id": 8,
+            "img": "/4.jpeg",
+            "mp3": "/analog1min.mp3",
+            "title": "Analog clock 1min",
+            "price": 0,
+            "choice": true,
+            "duration": ["60sec"]
+        },
+        {
+            "id": 9,
+            "img": "/16.jpeg",
+            "mp3": "/10secdrum.mp3",
+            "title": "10 seconds drum",
+            "price": 0,
+            "choice": false,
+            "new": true,
+            "duration": ["10sec"]
+        },
+        {
+            "id": 10,
+            "img": "/12.jpeg",
+            "mp3": "/piano-20sec.mp3",
+            "title": "Piano 20sec",
+            "price": 19900,
+            "choice": true,
+            "new": false,
+            "duration": ["20sec"]
+        },
+        {
+            "id": 11,
+            "img": "/7.jpeg",
+            "mp3": "/meditation.mp3",
+            "title": "Meditation",
+            "price": 0,
+            "choice": true,
+            "new": true,
+            "duration": ["143sec"]
+        }
+    ]
+}
